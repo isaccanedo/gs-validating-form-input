@@ -6,7 +6,7 @@
 This guide walks you through the process of configuring a web application form to support
 validation.
 
-== What You Will Build
+== O que você vai construir
 
 You will build a simple Spring MVC application that takes user input and checks the input
 by using standard validation annotations. You will also see how to display the error
