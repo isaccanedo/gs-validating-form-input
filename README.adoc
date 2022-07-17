@@ -3,8 +3,8 @@
 :source-highlighter: prettify
 :project_id: gs-validating-form-input
 
-This guide walks you through the process of configuring a web application form to support
-validation.
+Este guia orienta você no processo de configuração de um formulário de aplicativo da Web para oferecer suporte
+validação.
 
 == O que você vai construir
 
